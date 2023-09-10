@@ -1,16 +1,13 @@
-# untitled
+A shop app with API using Flutter is a mobile application that uses the Flutter framework to build a user interface and the API to fetch data from a remote server. The API can be hosted on a cloud server or on a local machine.
 
-A new Flutter project.
+The following are the main features of a shop app with API using Flutter:
 
-## Getting Started
+1.Display of products: The app can display a list of products from the API. The products can be categorized.
+2.User profile: The app can store the user's profile information, such as their name, email address.
+3.Authentication: The app can authenticate users to prevent unauthorized access to their accounts.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And in this app used:
+1.Simple UI.
+2.Handling API (Dio Helper).
+3.Shared Preferences (Cache helper).
+4.State Management Bloc(Cubit).
